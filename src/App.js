@@ -6,6 +6,7 @@ class App extends React.Component {
     return (
       <div className="App">
         <h1>🤝 I have won React! 🌟</h1>
+        <h2>updates</h2>
       </div>
     );
   }
